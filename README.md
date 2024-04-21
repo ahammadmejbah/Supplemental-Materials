@@ -1,6 +1,6 @@
 <body>
 <div align="center" style="background-color: #353541; width: 400px; margin: auto;">
-    <img src="https://github.com/BytesOfIntelligences/BytesOfIntelligences/blob/main/Exploring%20AI's%20Secrets%20Documents.png" width="400px">
+    <img src="https://github.com/BytesOfIntelligences/BytesOfIntelligences/blob/main/Exploring%20AI's%20Secretsss.png" width="400px">
 </div>
 <p align="center">
   <a href="mailto:ahammadmejbah@gmail.com"><img src="https://img.shields.io/badge/Email-ahammadmejbah%40gmail.com-blue?style=flat-square&logo=gmail"></a>
